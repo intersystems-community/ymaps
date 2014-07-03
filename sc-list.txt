@@ -1,0 +1,13 @@
+<cspapp>/polygonsKZ.js
+KZ.Area.CLS
+KZ.Borders.CLS
+KZ.City.CLS
+KZ.KPI.Map.CLS
+KZ.KPI.Top.CLS
+KZ.MapPortletGoogle.CLS
+KZ.MapPortletYandex.CLS
+KZ.Parameter.CLS
+KZ.ParameterValue.CLS
+KZ.Region.CLS
+KZ.Utils.CLS
+KZDashboards-KZYandexMap.dashboard.DFI
